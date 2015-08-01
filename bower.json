@@ -1,0 +1,20 @@
+{
+  "name": "picture-carousel",
+  "version": "0.0.0",
+  "authors": [
+    "jijin <jijin.huang2012@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular-bootstrap": "~0.13.1",
+    "angular-route": "~1.4.3"
+  }
+}
